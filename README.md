@@ -56,40 +56,6 @@ Building scalable backend systems, distributed applications, and modern web plat
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Sammeyak797&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammeyak797&layout=compact)
-
----
-
-## 🏆 Featured Projects
-
-### ⚙ Distributed Workflow Engine
-
-Distributed task execution platform with:
-
-- Worker Nodes
-- Redis Coordination
-- Task Scheduling
-- Monitoring
-
-### 🔗 URL Shortener
-
-- JWT Authentication
-- Redis Caching
-- Analytics Dashboard
-
-### 🧠 ThinkBoard SaaS Backend
-
-- REST APIs
-- Authentication
-- Rate Limiting
-- MongoDB
-
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sammeyak-wankhade
