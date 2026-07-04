@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-00f5c3?style=for-the-badge&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-e94560?style=for-the-badge&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/CGPA-8.60%2F10-00f5c3?style=for-the-badge&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/Graduating-June%202026-ccd6f6?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Graduated-June%202026-ccd6f6?style=for-the-badge&labelColor=0d0d0d" />
 </div>
 
 <br/>
