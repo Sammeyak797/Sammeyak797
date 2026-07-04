@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5C3&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern+%40+Cooee+UK+%F0%9F%87%AC%F0%9F%87%A7;Backend+enjoyer.+Frontend+tolerator.;Java+%7C+TypeScript+%7C+Python+%7C+NestJS;My+code+works.+I+don't+know+why.+Don't+touch+it.;Open+to+Full-time+SDE+Roles+%F0%9F%9A%80;git+commit+-m+%22fix%3A+finally+works%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5C3&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern+%40+Cooee+%F0%9F%87%AC%F0%9F%87%A7;Backend+enjoyer.+Frontend+tolerator.;Java+%7C+TypeScript+%7C+Python+%7C+NestJS;My+code+works.+I+don't+know+why.+Don't+touch+it.;Open+to+Full-time+SDE+Roles+%F0%9F%9A%80;git+commit+-m+%22fix%3A+finally+works%22" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -37,9 +37,9 @@
 
 ```bash
 $ whoami
-> Sammeyak Wankhade — Software Engineer Intern @ Cooee (UK)
+> Sammeyak Wankhade — Software Engineer Intern @ Cooee
 > B.E. Information Technology — Sinhgad College of Engineering, Pune
-> CGPA: 8.60 | Graduating: June 2026
+> CGPA: 8.60 | Graduated: June 2026
 > Stack: Java · TypeScript · Python · NestJS · Angular · Spring Boot
 > Current mood: git push --force (kidding... mostly)
 ```
@@ -50,7 +50,7 @@ $ whoami
 
 ```yaml
 name        : Sammeyak Wankhade
-role        : Software Engineer Intern @ Cooee (UK)
+role        : Software Engineer Intern @ Cooee
 education   : B.E. IT — Sinhgad College of Engineering, Pune
 cgpa        : 8.60 / 10
 location    : Pune, Maharashtra, India
