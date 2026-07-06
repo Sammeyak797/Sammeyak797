@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5C3&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern+%40+Cooee+%F0%9F%87%AC%F0%9F%87%A7;Backend+enjoyer.+Frontend+tolerator.;Java+%7C+TypeScript+%7C+Python+%7C+NestJS;My+code+works.+I+don't+know+why.+Don't+touch+it.;Open+to+Full-time+SDE+Roles+%F0%9F%9A%80;git+commit+-m+%22fix%3A+finally+works%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5C3&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern+%40+Cooee;Backend+enjoyer.+Frontend+tolerator.;Java+%7C+TypeScript+%7C+Python+%7C+NestJS;My+code+works.+I+don't+know+why.+Don't+touch+it.;Open+to+Full-time+SDE+Roles+%F0%9F%9A%80;git+commit+-m+%22fix%3A+finally+works%22" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -139,7 +139,7 @@ seeking     : Full-time SDE / Backend Engineer roles
 ### 💼 Experience
 
 ```
-> Software Engineer Intern @ Cooee (UK)          Feb 2026 – Present
+> Software Engineer Intern @ Cooee          Feb 2026 – Present
   ├── NestJS · Angular · MongoDB · TypeScript · Shopify GraphQL
   ├── Cron-based automation · DB migrations · REST APIs
   ├── 50+ feature enhancements for enterprise clients
